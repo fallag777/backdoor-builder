@@ -174,7 +174,7 @@ const App: React.FC = () => {
           <h2>Download APK</h2>
           <p>Replace the placeholder URL below with the actual URL of your APK file.</p>
           <a
-            href="https://fallag777.github.io/backdoor-builder/test1.apk"
+            href="https://github.com/fallag777/backdoor-builder/releases/download/v1.0/test1.apk"
             target="_blank"
             rel="noopener noreferrer"
             className="download-link"
